@@ -1,3 +1,15 @@
-*RE-BRANDING VISUAL Y ESTRUCTURAL*
+## RE-BRANDING VISUAL Y ESTRUCTURAL
 - Renovación gráfica
-- Re estruccturación
+- Estructuración del servidor
+- Roles/Autoroles
+
+## Gestión de [Equipo de administración]
+- Reunión con el equipo actual
+- Reclutamiento
+
+## Relanzamiento
+- Transmision de reinauguracion
+- Pin a todos con motivos
+
+## Actividad continua
+- Dinamicas semanales

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Branding"
             }
+          },
+          {
+            "id": "32947594a1154e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F1 Discord/Reglas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reglas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F1 Español/Branding.md",
+                "file": "F1 Discord/Reglas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F1 Español/Branding.md",
+                "file": "F1 Discord/Reglas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F1 Español/Branding.md",
+                "file": "F1 Discord/Reglas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,15 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75798f2c940bb92c",
+  "active": "32947594a1154e93",
   "lastOpenFiles": [
-    "F1 Discord/Reglas.md",
-    "F1 Discord/Equipo de Administración.md",
     "F1 Discord/Urgente.md",
+    "F1 Discord/Reglas.md",
     "F1 Español/Branding.md",
+    "conflict-files-obsidian-git.md",
+    "F1 Discord/Equipo de Administración.md",
     "F1 Discord/Equipo de Adminitstración.md",
     "F1 Discord/Bots/Probot.md",
-    "conflict-files-obsidian-git.md",
     "F1 Discord/Bots",
     "Sin título.md",
     "F1 Discord",

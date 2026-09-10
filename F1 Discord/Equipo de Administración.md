@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 ## Dueño
 
 1. F1.Adictos
@@ -29,3 +31,4 @@
 1. JOBCRACK20
 
 
+>>>>>>> origin/main
