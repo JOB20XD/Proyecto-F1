@@ -12,12 +12,11 @@ Este documento contiene una guía de fácil comprensión sobre la reinvención d
 + **Roles y Autoroles**
 	+ Implementar un menú de reacciones para que los usuarios seleccionen su rol o escudería favorita.
 ## 2. Gestión de [Equipo de administración]
-- Reunión con el equipo actual
-- Reclutamiento
+- **Reunión con el equipo actual:** Realizar un "Check-in" interno y transparente. El objetivo es reafirmar el compromiso y confirmar quienes tienen la disponibilidad real de participar activamente en esta nueva fase.
+- **Reclutamiento:** Abrir postulaciones formales para nuevos moderadores. Se priorizará perfiles con criterio analítico y disponibilidad comprobada durante las sesiones de clasificación y carreras los fines de semana.
 
-## Relanzamiento
-- Transmision de reinauguracion
-- Pin a todos con motivos
-
-## Actividad continua
-- Dinamicas semanales
+## 3. Relanzamiento y actividad continua
+- **Transmisión de reinauguración**
+	- Organizar un evento en vivo para presentar el rediseño. Realizar la reapertura con una transmisión simultánea en plataformas como twitch y kick, así damos exposición y atraemos a los miembros mas antiguos como a nuevos.
+- **Anuncio oficial:** Utilizar un único pin con un mensaje claro, gráfico y emocionante anunciando los cambios, el nuevo enfoque del servidor y el enlace del evento en vivo.
+- **Dinámicas semanales:** Implementar actividades recurrentes para retener la actividad, como predicciones de podio, encuestas post-carrera ("Piloto del Día") y alertas automatizadas de la FIA.
