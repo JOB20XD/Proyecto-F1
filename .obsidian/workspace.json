@@ -11,14 +11,10 @@
             "id": "fa7417a05b26fee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prueva/Prueba.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prueba"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prueva/Prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prueva/Prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -185,10 +179,11 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa7417a05b26fee7",
+  "active": "2059b2234d590c80",
   "lastOpenFiles": [
     "Prueva/Prueba.md",
     "Prueva"
