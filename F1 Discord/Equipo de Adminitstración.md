@@ -1,2 +1,10 @@
-1. Rodrigo
-2. 
+
+#Dueño
+
+#Administrador
+
+#Gerente
+
+#Supervisor del personal
+
+1. 
