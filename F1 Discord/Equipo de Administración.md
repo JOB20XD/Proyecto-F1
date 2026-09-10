@@ -24,6 +24,8 @@
 3. Sandy Donovan
 
 
-%%Desarrollador%%
+## Desarrollador
+
+1. JOBCRACK20
 
 
