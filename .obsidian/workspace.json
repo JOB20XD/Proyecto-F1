@@ -11,10 +11,14 @@
             "id": "56e733c59a641b15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "F1 Español/Branding.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Branding"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "F1 Español/Branding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "F1 Español/Branding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "F1 Español/Branding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,7 +191,10 @@
   },
   "active": "56e733c59a641b15",
   "lastOpenFiles": [
+    "F1 Discord/Urgente/Sin título.md",
+    "F1 Español/Branding.md",
     "conflict-files-obsidian-git.md",
+    "F1 Español",
     "F1 Discord/Urgente"
   ]
 }
