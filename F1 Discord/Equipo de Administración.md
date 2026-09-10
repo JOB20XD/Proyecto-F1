@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ## Dueño
 
 1. F1.Adictos
