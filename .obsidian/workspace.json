@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a5ac2a734f1523cd",
+    "id": "16fee10603382bee",
     "type": "split",
     "children": [
       {
-        "id": "4064e42680a7c9bb",
+        "id": "e9d5556ff5367f31",
         "type": "tabs",
         "children": [
           {
-            "id": "75798f2c940bb92c",
+            "id": "56e733c59a641b15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Discord/Urgente.md",
+                "file": "F1 Español/Branding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urgente"
+              "title": "Branding"
             }
           }
         ]
@@ -27,20 +27,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6fa051d28ba07cfb",
+    "id": "5dc26d7b5a1ee6df",
     "type": "split",
     "children": [
       {
-        "id": "b2efcba5863e0ac1",
+        "id": "e0b72b0a708080b6",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa696ce14a4cb88",
+            "id": "8d0fa349ec971339",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "db88bca0c69b3f2e",
+            "id": "c7941154e72d5eb1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "08890601b1be4b31",
+            "id": "2a2f7e18502cdc4b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "59d0bb5774cb6aa7",
+    "id": "304cd57a6b3c0ff8",
     "type": "split",
     "children": [
       {
-        "id": "ce10eb506be936f4",
+        "id": "114e66d5e58d128d",
         "type": "tabs",
         "children": [
           {
-            "id": "6cdfe21310f7fd1c",
+            "id": "af0f7c9ecd266dc4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F1 Discord/Urgente.md",
+                "file": "F1 Español/Branding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "89bdf7362855f6f7",
+            "id": "2ee09d125b012afd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F1 Discord/Urgente.md",
+                "file": "F1 Español/Branding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "a6ed821e74e57850",
+            "id": "25f4cb9f17e11f68",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "c0ddc0cea5f92150",
+            "id": "bbda6ddd2e1dd8a5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "884916e72fc813b3",
+            "id": "58bd3dc90525f0a3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "F1 Discord/Urgente.md",
+                "file": "F1 Español/Branding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,16 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75798f2c940bb92c",
+  "active": "56e733c59a641b15",
   "lastOpenFiles": [
-    "F1 Discord/Bots/Probot.md",
     "F1 Discord/Urgente.md",
     "F1 Español/Branding.md",
-    "F1 Discord/Reglas.md",
-    "F1 Discord/Moderadores.md",
-    "F1 Discord/Bots",
-    "Sin título.md",
-    "F1 Discord",
-    "F1 Español"
+    "F1 Discord/Urgente/Sin título.md",
+    "conflict-files-obsidian-git.md",
+    "F1 Español",
+    "F1 Discord/Urgente"
   ]
 }
