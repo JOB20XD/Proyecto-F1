@@ -1,21 +1,29 @@
-# Dueño
+## Dueño
+
+1. F1.Adictos
+2. Rodrgxs
+## Administrador
+
+1. It's Dino
 
 
-# Administrador
+%% Gerente de Supervisión %%
 
-# Gerente
+## Moderador Senior
 
-# Supervisor del Personal
+1. Sandy Donovan
 
-# Moderador Senior
 
-# Moderador 
+%% Moderador %%
 
-#  Ayudante
+%% Ayudante en Pruebas%%
+## Equipo de Moderación 
 
-# Ayudante en Pruebas
+1. F1.Adictos
+2. Rodrgxs
+3. Sandy Donovan
 
-# Equipo de Moderación 
 
-# Desarrollador
+%%Desarrollador%%
+
 

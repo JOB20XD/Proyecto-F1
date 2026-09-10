@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Discord/Equipo de Administración.md",
+                "file": "F1 Discord/Reglas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipo de Administración"
+              "title": "Reglas"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Gerente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F1 Discord/Equipo de Administración.md",
+                "file": "F1 Discord/Reglas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F1 Discord/Equipo de Administración.md",
+                "file": "F1 Discord/Reglas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F1 Discord/Equipo de Administración.md",
+                "file": "F1 Discord/Reglas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,13 +191,13 @@
   },
   "active": "75798f2c940bb92c",
   "lastOpenFiles": [
-    "F1 Discord/Equipo de Adminitstración.md",
     "F1 Discord/Equipo de Administración.md",
+    "F1 Discord/Reglas.md",
+    "F1 Discord/Equipo de Adminitstración.md",
     "F1 Discord/Bots/Probot.md",
     "F1 Español/Branding.md",
     "conflict-files-obsidian-git.md",
     "F1 Discord/Urgente.md",
-    "F1 Discord/Reglas.md",
     "F1 Discord/Bots",
     "Sin título.md",
     "F1 Discord",
