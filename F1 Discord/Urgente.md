@@ -1,2 +1,2 @@
-
-1. Rebranding del discord (Logo, canales)
+# Urgente
+## Protocolos de Emergencia
