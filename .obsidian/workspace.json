@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Página Web"
             }
+          },
+          {
+            "id": "ef47a85d10b5a3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F1 Web/Página Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Página Web"
+            }
+          },
+          {
+            "id": "e60b1cbf877a2f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F1 Español/Plan de Re-Branding y Reestructuración.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan de Re-Branding y Reestructuración"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,16 +232,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32947594a1154e93",
+  "active": "e60b1cbf877a2f70",
   "lastOpenFiles": [
-    "F1 Español/Branding.md",
-    "F1 Web/Página Web.md",
-    "F1 Web",
-    "F1 Discord/Urgente.md",
-    "F1 Discord/Reglas.md",
-    "F1 Discord/Equipo de Administración.md",
     "F1 Discord/Bots/Probot.md",
+    "F1 Discord/Equipo de Administración.md",
+    "F1 Web/Página Web.md",
+    "F1 Español/Plan de Re-Branding y Reestructuración.md",
+    "F1 Discord/Urgente.md",
     "conflict-files-obsidian-git.md",
+    "F1 Discord/Reglas.md",
+    "F1 Discord/Reclutamiento de personal.md",
+    "F1 Discord/Estructura de canales.md",
+    "F1 Español/Branding.md",
+    "F1 Web",
     "F1 Discord/Equipo de Adminitstración.md",
     "F1 Discord/Bots",
     "Sin título.md",
