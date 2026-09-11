@@ -16,7 +16,7 @@ Aqui se definirán los roles y rangos que tendrá el servidor que cada usuario e
 | 8. Ayudante de Pruebas                |
 | 9. Equipo de Moderación               |
 | 10. Desarrollador                     |
-| **Participacion**                     |
+| **Participación**                     |
 | 11.Booster                            |
 | 13. Nivel 35 - Leyenda                |
 | 14. Nivel 30 - Histórico              |
@@ -39,6 +39,7 @@ Aqui se definirán los roles y rangos que tendrá el servidor que cada usuario e
 | 28. Mención - Sorteos                 |
 | 29. Mención - Novedades               |
 | 30. Mención - Interacción             |
+| Noticias - F1                         |
 | **Escuderías**                        |
 | 31. Williams                          |
 | 32. Redbull                           |
@@ -51,5 +52,5 @@ Aqui se definirán los roles y rangos que tendrá el servidor que cada usuario e
 | 39. Audi                              |
 | 40. Aston Martin                      |
 | 41. Alpine                            |
-| 42. Noticias - F1                     |
+| 42.                                   |
  
