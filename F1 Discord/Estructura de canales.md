@@ -2,8 +2,8 @@
 Hemos condensado múltiples canales inactivos en espacios generales para concentrar la conversación y hacer que el servidor se sienta mucho más activo.
 
 ## Estructura de canales
-| Categoría           | INFORMACIÓN                                                                           |
-| ------------------- | ------------------------------------------------------------------------------------- |
+| **Categoría**       | **INFORMACIÓN**                                                                       |
+| :------------------ | :------------------------------------------------------------------------------------ |
 | Bienvenidas         | Registro automático para los nuevos usuarios.                                         |
 | Reglas              | Normas de convivencia del servidor.                                                   |
 | Anuncios            | Aquí se publicarán noticias del staff, eventos, sorteos y watch Parties.              |

@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "304cd57a6b3c0ff8",
@@ -223,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b8075969dde9a8f",
+  "active": "63afe53e17e828ee",
   "lastOpenFiles": [
-    "F1 Español/Plan de Re-Branding y Reestructuración.md",
     "F1 Discord/Estructura de canales.md",
+    "F1 Español/Plan de Re-Branding y Reestructuración.md",
     "F1 Discord/Reclutamiento de personal.md",
     "F1 Discord/Reglas.md",
     "F1 Discord/Moderación",
