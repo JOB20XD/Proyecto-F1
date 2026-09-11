@@ -26,4 +26,36 @@ Hemos condensado múltiples canales inactivos en espacios generales para concent
 | Sugerencias         | Para proponer Emojis o ideas de la comunidad.                                         |
 | Crear-ticket        | Canal con panel para abrir tickets de atención privada.                               |
 | **Categoría**       | **ZONA STAFF**                                                                        |
-|                     |                                                                                       |
+| Urgente             | Para reportar problemas críticos de moderación.                                       |
+| Chat-staff          | Canal unificado para que mods y admins se coordinen.                                  |
+| Comandos-staff      | Para usar bots sin hacer spam en canales públicos.                                    |
+| Log-auditoria       | Unificado para entradas, salidas mensajes borrados y sanciones.                       |
+
+| **Categoría**       | **INFORMACIÓN**                                                                       |
+| :------------------ | :------------------------------------------------------------------------------------ |
+| Bienvenidas         | Registro automático para los nuevos usuarios.                                         |
+| Reglas              | Normas de convivencia del servidor.                                                   |
+| Anuncios            | Aquí se publicarán noticias del staff, eventos, sorteos y watch Parties.              |
+| Roles               | Canal exclusivo para que los usuarios reaccionen y obtengan el color de su escudería. |
+| **Categoría**       | **PADDOCK**                                                                           |
+| Chat-general        | Conversación libre.                                                                   |
+| Memes               |                                                                                       |
+| Gaming-fantasy      |                                                                                       |
+| **Categoría**       | **FÓRMULA 1**                                                                         |
+| Debate-f1           |                                                                                       |
+| Noticias            |                                                                                       |
+| FIA                 |                                                                                       |
+| Resultados-spoilers |                                                                                       |
+| Otra-categorias     |                                                                                       |
+| **Categoría**       | **CANALES DE VOZ**                                                                    |
+| Grada principal     | Canal de voz principal.                                                               |
+| Boxes               | Grupos pequeños.                                                                      |
+| Watch Partie        | Usado por el staff para eventos en vivo.                                              |
+| **Categoría**       | **SOPORTE Y TICKETS**                                                                 |
+| Sugerencias         | Para proponer Emojis o ideas de la comunidad.                                         |
+| Crear-ticket        | Canal con panel para abrir tickets de atención privada.                               |
+| **Categoría**       | **ZONA STAFF**                                                                        |
+| Urgente             | Para reportar problemas críticos de moderación.                                       |
+| Chat-staff          | Canal unificado para que mods y admins se coordinen.                                  |
+| Comandos-staff      | Para usar bots sin hacer spam en canales públicos.                                    |
+| Log-auditoria       | Unificado para entradas, salidas mensajes borrados y sanciones.                       |
