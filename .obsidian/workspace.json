@@ -6,6 +6,7 @@
       {
         "id": "30b0797999e62845",
         "type": "tabs",
+        "dimension": 50.89430894308943,
         "children": [
           {
             "id": "c46b10178c8abb9c",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Discord/Reclutamiento de personal.md",
+                "file": "F1 Discord/Reglas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reclutamiento de personal"
+              "title": "Reglas"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "53566e46bfc9fd6a",
         "type": "tabs",
+        "dimension": 49.105691056910565,
         "children": [
           {
             "id": "63afe53e17e828ee",
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F1 Discord/Reclutamiento de personal.md",
+                "file": "F1 Español/Plan de Re-Branding y Reestructuración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F1 Discord/Reclutamiento de personal.md",
+                "file": "F1 Español/Plan de Re-Branding y Reestructuración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F1 Discord/Reclutamiento de personal.md",
+                "file": "F1 Español/Plan de Re-Branding y Reestructuración.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,16 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c46b10178c8abb9c",
+  "active": "63afe53e17e828ee",
   "lastOpenFiles": [
-    "Sin título.md",
-    "F1 Discord/Reclutamiento de personal.md",
+    "F1 Discord/Reglas.md",
     "F1 Español/Plan de Re-Branding y Reestructuración.md",
+    "F1 Discord/Reclutamiento de personal.md",
+    "Sin título.md",
     "F1 Discord/Moderación",
     "F1 Discord/Canales",
     "Sin nombre",
     "F1 Discord/Equipo de Administración.md",
-    "F1 Discord/Reglas.md",
     "conflict-files-obsidian-git.md",
     "F1 Discord/Bots/Probot.md",
     "F1 Discord/Urgente.md",
