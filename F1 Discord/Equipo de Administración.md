@@ -27,6 +27,3 @@
 ## Desarrollador
 
 1. JOBCRACK20
-
-
->>>>>>> origin/main
