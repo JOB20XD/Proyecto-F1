@@ -1,7 +1,8 @@
 # Descripción
 Hemos condensado múltiples canales inactivos en espacios generales para concentrar la conversación y hacer que el servidor se sienta mucho más activo.
 
-## Estructura de canales
+## Estructura de canales (Anterior)
+
 | Información             |
 | :---------------------- |
 | Normas                  |
