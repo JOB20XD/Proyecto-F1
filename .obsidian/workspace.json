@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Discord/Reglas.md",
+                "file": "F1 Web/Página Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reglas"
+              "title": "Página Web"
             }
           }
         ],
@@ -206,13 +206,15 @@
   },
   "active": "32947594a1154e93",
   "lastOpenFiles": [
+    "F1 Español/Branding.md",
+    "F1 Web/Página Web.md",
+    "F1 Web",
     "F1 Discord/Urgente.md",
     "F1 Discord/Reglas.md",
-    "F1 Español/Branding.md",
-    "conflict-files-obsidian-git.md",
     "F1 Discord/Equipo de Administración.md",
-    "F1 Discord/Equipo de Adminitstración.md",
     "F1 Discord/Bots/Probot.md",
+    "conflict-files-obsidian-git.md",
+    "F1 Discord/Equipo de Adminitstración.md",
     "F1 Discord/Bots",
     "Sin título.md",
     "F1 Discord",
