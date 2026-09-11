@@ -1,4 +1,4 @@
 Páginas
 
 	+ Links
-	+ Web general : Pronosticos
+	+ Web general : Pronósticos

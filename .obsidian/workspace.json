@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Discord/Bots/YouTube.md",
+                "file": "F1 Web/Página Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YouTube"
+              "title": "Página Web"
             }
           }
         ]
@@ -210,8 +210,8 @@
   },
   "active": "0b8075969dde9a8f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "F1 Discord/Bots/YouTube.md",
+    "conflict-files-obsidian-git.md",
     "F1 Web/Página Web.md",
     "F1 Web",
     "F1 Discord/Bots/Ticket Tool.md",
