@@ -70,7 +70,7 @@ Hemos condensado múltiples canales inactivos en espacios generales para concent
 | Roles               | Canal exclusivo para que los usuarios reaccionen y obtengan el color de su escudería. |
 | **Categoría**       | **PADDOCK**                                                                           |
 | Chat-general        | Conversación libre.                                                                   |
-| Memes               |                                                                                       |
+| Memes               | Canal exclusivo para humor y shitposting.                                             |
 | Gaming-fantasy      |                                                                                       |
 | **Categoría**       | **FÓRMULA 1**                                                                         |
 | Debate-f1           |                                                                                       |
