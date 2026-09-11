@@ -60,6 +60,7 @@ Hemos condensado múltiples canales inactivos en espacios generales para concent
 | Logros                  |
 | Mejoras                 |
 | Información             |
+## Estructura de Canales (Re-branding)
 
 | **Categoría**       | **INFORMACIÓN**                                                                       |
 | :------------------ | :------------------------------------------------------------------------------------ |
