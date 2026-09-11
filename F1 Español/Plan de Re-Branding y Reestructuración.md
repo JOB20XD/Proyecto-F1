@@ -6,7 +6,7 @@ Este documento contiene una guía de fácil comprensión sobre la reinvención d
 	- Diseño nuevo de perfil del servidor, banners para los canales(Bienvenida, Dato diario, Pregunta del día, etc) y paquetes de emojis personalizados.
 	- Usar herramientas de diseño garantizando que se perciba el salto de calidad inmediato y cohesivo en toda la interfaz.
 - **Limpieza y estructura de canales**
-	- *Purga de [Canales]:* Eliminar o archivar canales inactivos. El exceso de estos canales vacíos genera una percepción de inactividad.
+	- *[[Estructura de canales]]:* Eliminar o archivar canales inactivos. El exceso de estos canales vacíos genera una percepción de inactividad.
 	- *Consolidación:* Mantener estrictamente los canales vitales.
 	- *Nuevas integraciones:* Crear un flujo claro para la entrada de nuevos usuarios, captando la primer interacción y separando el ruido de las conversaciones reales.
 + **Roles y Autoroles**
