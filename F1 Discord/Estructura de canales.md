@@ -62,6 +62,7 @@ Hemos condensado múltiples canales inactivos en espacios generales para concent
 | Mejoras                 |
 | Información             |
 ## Estructura de Canales (Re-branding)
+Esta reestructuración la disponemos con el fin de disminuir canales redundantes y vacíos.
 
 | **Categoría**       | **INFORMACIÓN**                                                                        |
 | :------------------ | :------------------------------------------------------------------------------------- |
@@ -91,3 +92,8 @@ Hemos condensado múltiples canales inactivos en espacios generales para concent
 | Chat-staff          | Canal unificado para que mods y admins se coordinen.                                   |
 | Comandos-staff      | Para usar bots sin hacer spam en canales públicos.                                     |
 | Log-auditoria       | Unificado para entradas, salidas mensajes borrados y sanciones.                        |
+### Cambios
++ Reducción de canales de voz de 10 a solo 3 Esenciales.
++ Agrupamos el Gaming, el Sim Racing y Fantasy en un solo espacio para que los gamers interactúen entre todos.
++ Eliminación de 4 canales distintos de documentos de la FIA y los unimos en uno solo.
++ También eliminamos los varios canales inactivos para distintas categorías a un canal generalizado.
