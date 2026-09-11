@@ -18,10 +18,12 @@ Hemos condensado múltiples canales inactivos en espacios generales para concent
 | FIA                 |                                                                                       |
 | Resultados-spoilers |                                                                                       |
 | Otra-categorias     |                                                                                       |
-| **Categoría**       | **Canales de voz**                                                                    |
-| Grada principal     | Canal de voz principal                                                                |
-| Boxes               | Grupos pequeños                                                                       |
-| Watch Partie        | Usado por el staff para eventos en vivo                                               |
-|                     |                                                                                       |
-|                     |                                                                                       |
+| **Categoría**       | **CANALES DE VOZ**                                                                    |
+| Grada principal     | Canal de voz principal.                                                               |
+| Boxes               | Grupos pequeños.                                                                      |
+| Watch Partie        | Usado por el staff para eventos en vivo.                                              |
+| **Categoría**       | **SOPORTE Y TICKETS**                                                                 |
+| Sugerencias         | Para proponer Emojis o ideas de la comunidad.                                         |
+| Crear-ticket        | Canal con panel para abrir tickets de atención privada.                               |
+| **Categoría**       | **ZONA STAFF**                                                                        |
 |                     |                                                                                       |
