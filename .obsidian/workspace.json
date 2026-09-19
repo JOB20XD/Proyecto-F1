@@ -6,6 +6,7 @@
       {
         "id": "30b0797999e62845",
         "type": "tabs",
+        "dimension": 57.124183006535944,
         "children": [
           {
             "id": "0b8075969dde9a8f",
@@ -13,12 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Español/Descripción.md",
+                "file": "F1 Web/Landing Page/Ruta de Desarrollo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Descripción"
+              "title": "Ruta de Desarrollo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3351878ce7c1389",
+        "type": "tabs",
+        "dimension": 42.87581699346405,
+        "children": [
+          {
+            "id": "5bcae0efc5050f83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -83,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "304cd57a6b3c0ff8",
@@ -161,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F1 Español/Plan de Re-Branding y Reestructuración.md",
+                "file": "F1 Web/Landing Page/Ruta de Desarrollo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,8 +210,13 @@
   },
   "active": "0b8075969dde9a8f",
   "lastOpenFiles": [
-    "F1 Discord/Promoción.md",
+    "F1 Web/Landing Page/Estructura.md",
+    "F1 Web/Landing Page/Planificación.md",
+    "F1 Web/Landing Page/Ruta de Desarrollo.md",
+    "F1 Web/Página Web.md",
+    "F1 Web/Landing Page",
     "F1 Español/Descripción.md",
+    "F1 Discord/Promoción.md",
     "F1 Español/Plan de Re-Branding y Reestructuración.md",
     "F1 Discord/Urgente.md",
     "F1 Discord/Reglas.md",
@@ -215,10 +238,6 @@
     "F1 Discord/Bots/F1 Español.md",
     "F1 Discord/Bots/Activity Rank.md",
     "F1 Discord/Bots/MonitorRSS.md",
-    "F1 Discord/Bots/Dyno.md",
-    "F1 Discord/Bots/Guild Manager.md",
-    "F1 Discord/Bots/FIA Documents.md",
-    "F1 Discord/Bots/F1Dex.md",
     "F1 Web",
     "F1 Discord/Moderación",
     "F1 Discord/Canales",
