@@ -6,7 +6,7 @@
       {
         "id": "30b0797999e62845",
         "type": "tabs",
-        "dimension": 57.124183006535944,
+        "dimension": 46.60130718954249,
         "children": [
           {
             "id": "0b8075969dde9a8f",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Web/Landing Page/Ruta de Desarrollo.md",
+                "file": "F1 Web/Landing Page/Estructura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruta de Desarrollo"
+              "title": "Estructura"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "e3351878ce7c1389",
         "type": "tabs",
-        "dimension": 42.87581699346405,
+        "dimension": 53.39869281045751,
         "children": [
           {
             "id": "5bcae0efc5050f83",
@@ -59,7 +59,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -208,11 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b8075969dde9a8f",
+  "active": "5bcae0efc5050f83",
   "lastOpenFiles": [
     "F1 Web/Landing Page/Estructura.md",
-    "F1 Web/Landing Page/Planificación.md",
     "F1 Web/Landing Page/Ruta de Desarrollo.md",
+    "F1 Web/Landing Page/Planificación.md",
     "F1 Web/Página Web.md",
     "F1 Web/Landing Page",
     "F1 Español/Descripción.md",
