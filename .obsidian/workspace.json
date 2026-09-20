@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F1 Discord/Roles-Autoroles.md",
+                "file": "F1 Web/Página Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles-Autoroles"
+              "title": "Página Web"
             }
           }
         ]
@@ -189,14 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aa696ce14a4cb88",
+  "active": "3929ea9bf3e65415",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "F1 Discord/Roles-Autoroles.md",
-    "F1 Discord/Urgente.md",
     "F1 Discord/Reclutamiento de personal.md",
-    "F1 Discord/Estructura de canales.md",
+    "F1 Discord/Roles-Autoroles.md",
     "F1 Discord/Reglas.md",
+    "conflict-files-obsidian-git.md",
+    "F1 Discord/Urgente.md",
+    "F1 Discord/Estructura de canales.md",
     "F1 Discord/Equipo de Administración.md",
     "F1 Web/Página Web.md",
     "F1 Español/Plan de Re-Branding y Reestructuración.md",
