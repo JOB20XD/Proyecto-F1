@@ -70,6 +70,7 @@ Esta reestructuración la disponemos con el fin de disminuir canales redundantes
 | Reglas              | Normas de convivencia del servidor.                                                    |
 | Anuncios            | Aquí se publicarán noticias del staff, eventos, sorteos y watch Parties.               |
 | Roles               | Canal exclusivo para que los usuarios reaccionen y obtengan el color de su escudería.  |
+| Canal TrampaBots    | En este canal no habrá mensajes de ningún tipo, ya que es exclusivo para atrapar bots. |
 | **Categoría**       | **PADDOCK**                                                                            |
 | Chat-general        | Conversación libre.                                                                    |
 | Memes               | Canal exclusivo para humor y shitposting.                                              |
