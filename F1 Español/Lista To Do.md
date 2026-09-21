@@ -9,5 +9,4 @@
     
 - [ ] Agregar Contenido: Lunes (F1 Horarios de los fines de semana de carreras), Miércoles (F1 Memes-F1 Datos) y Sábados (F1 memes-F1 datos) .}
     
-- [ ]  Verificar las monetizaciones en todas las redes.
-
+- [ ]  Verificar las reglas de monetizacion en todas las redes.
