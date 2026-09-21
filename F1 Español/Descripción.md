@@ -13,9 +13,12 @@ La comunidad de Fórmula 1 en habla hispana más grande del mundo. Eres bienveni
 - Reportes y sistema de tickets para ayuda personalizada.
 
 PRÓXIMAMENTE:
-- Integración servidores de juegos con temáticas de F1 
+- Integración servidores de juegos con temáticas de F1
 - Sorteos
 - Regalos
 - Torneos
 - Instagram
 - Página Web
+- Canal de Whatsapp
+- Canal de Telegram
+- Podcast
