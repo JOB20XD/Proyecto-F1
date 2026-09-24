@@ -59,3 +59,9 @@ Aqui se definirán los roles y rangos que tendrá el servidor que cada usuario e
 | 9. Audi          |     |
 | 10. Aston Martin |     |
 | 11. Alpine       |     |
+
+| **Premios en ** |
+| --------------- |
+| 1. Hombre       |
+| 2. Mujer        |
+| 3. Otro         |
