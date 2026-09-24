@@ -16,6 +16,7 @@ Aqui se definirán los roles y rangos que tendrá el servidor que cada usuario e
 
 | **Participación**         |     |
 | ------------------------- | --- |
+| 0. Donador                |     |
 | 1. Booster                |     |
 | 2. Leyenda                |     |
 | 3. Histórico              |     |
@@ -60,8 +61,11 @@ Aqui se definirán los roles y rangos que tendrá el servidor que cada usuario e
 | 10. Aston Martin |     |
 | 11. Alpine       |     |
 
-| **Premios en ** |
-| --------------- |
-| 1. Hombre       |
-| 2. Mujer        |
-| 3. Otro         |
+| **Premios Contador **  |
+| ---------------------- |
+| 1. Contador            |
+| 2. Medidor             |
+| 3. Contrarrevoluciones |
+| 4. Counter Senior      |
+| 5. Counter Master      |
+
